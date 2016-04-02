@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MultiLangMultiDisplay</string>
+    <string name="texto1">Bienvenido</string>
+    <string name="texto2">Entrar</string>
+</resources>
